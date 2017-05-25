@@ -39,7 +39,7 @@ gem "aasm"
 
 gem 'paginate'
 gem 'kaminari'
-gem 'coupons', github: 'unfernandito/coupons'
+gem 'coupons', github: 'zhaoxinxi/coupons'
 
 gem 'letter_opener', group: :development
 
@@ -64,4 +64,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 group :production do
   gem 'pg'
-end 
+end
