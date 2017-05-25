@@ -139,6 +139,7 @@ GEM
     page_meta (0.1.1)
       rails
     paginate (4.0.1)
+    pg (0.20.0)
     pkg-config (1.1.7)
     pry (0.10.4)
       coderay (~> 1.1.0)
@@ -243,6 +244,7 @@ DEPENDENCIES
   listen (~> 3.0.5)
   mini_magick
   paginate
+  pg
   pry
   puma (~> 3.0)
   rails (~> 5.0.0)
