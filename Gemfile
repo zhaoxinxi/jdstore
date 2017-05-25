@@ -38,7 +38,6 @@ gem 'font-awesome-rails'
 gem "aasm"
 
 gem 'paginate'
-gem 'kaminari'
 gem 'coupons', github: 'zhaoxinxi/coupons'
 
 gem 'letter_opener', group: :development
